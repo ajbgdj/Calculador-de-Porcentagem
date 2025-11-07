@@ -2,7 +2,7 @@
 
 Uma ferramenta de desktop, construída com Python e Flet, para calcular e acumular porcentagens de forma interativa e detalhada. Ideal para cenários onde é preciso decompor um valor total em múltiplas partes e entender a contribuição percentual de cada uma.
 
-![Screenshot da Aplicação](https://i.imgur.com/SU0M5z5.png)
+![Screenshot da Aplicação](./tela.png)
 *(Nota: Sugiro que você tire um print da sua aplicação e substitua o link acima pela imagem real)*
 
 ## 🚀 Sobre o Projeto
@@ -54,8 +54,8 @@ Para executar a aplicação em sua máquina local, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```sh
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DA_PASTA_DO_PROJETO>
+    git clone https://github.com/ajbgdj/porcentagem_inverso.git
+    cd porcentagem_inverso
     ```
 
 2.  **Crie e ative um ambiente virtual** (recomendado):
