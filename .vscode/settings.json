@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "c:\\Users\\Angel Benitez\\Projetos\\Calculador de Porcentagem\\.flet\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "c:\\Users\\Angel Benitez\\Projetos\\Calculador de Porcentagem\\backend\\src"
+    ],
+    "python-envs.pythonProjects": [],
+    "python-envs.defaultEnvManager": "ms-python.python:venv"
+}
