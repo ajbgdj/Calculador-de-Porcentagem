@@ -3,7 +3,6 @@
 Uma ferramenta de desktop, construída com Python e Flet, para calcular e acumular porcentagens de forma interativa e detalhada. Ideal para cenários onde é preciso decompor um valor total em múltiplas partes e entender a contribuição percentual de cada uma.
 
 ![Screenshot da Aplicação](./tela.png)
-*(Nota: Sugiro que você tire um print da sua aplicação e substitua o link acima pela imagem real)*
 
 ## 🚀 Sobre o Projeto
 
